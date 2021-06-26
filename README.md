@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felna, from Belgrade, Serbia
 - 👀 I’m interested in spreading DevOps culture
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on interesting proejects
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me on nikola.novkovic.bg@gmail.com
 
 <!---
